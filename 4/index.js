@@ -32,6 +32,6 @@ function stopClock(){
 
 function resetClock(){
     stopClock();
-    secondssElapsed =0
+    secondsElapsed =0
     setTime();
 }
